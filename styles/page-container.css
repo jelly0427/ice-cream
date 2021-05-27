@@ -1,0 +1,19 @@
+/* PAGE CONTAINER STYLES */
+.page-container {
+    display: flex;
+    justify-content: center;
+  }
+  .page-container > .content-wrapper {
+    width: 1000px;
+    }
+    .page-container > .content-wrapper > #icecream {
+      width: 350px;
+      margin: 23px 40px 20px 0;
+      float: left;
+      
+      }
+      .page-container > .content-wrapper p {
+        letter-spacing: 1px;
+        line-height: 30px;
+        
+    }
